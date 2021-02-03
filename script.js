@@ -14,6 +14,8 @@ function tellFortune= ()=> {
     //above creates random choice from the arrays and returns them  as random*
     
     //interpolate them all together 
-
-
+    
+    console.log(`Your sign is ${randomSign}.`)
+    console.log(`Your luck today is ${randomLuck}.`)
+    console.log(`Today, you should ${randomPhrase}`)
 }
