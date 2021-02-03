@@ -18,7 +18,7 @@ Small scale project to test JaveScript, SCM, and local development skills
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-
+Node.js
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
